@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Setting xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <fullpath>
+    <XML>
+      <Path>D:\Games\SA\gta_sa.exe</Path>
+    </XML>
+    <XML>
+      <Path>D:\Games\SA\gta3.exe</Path>
+    </XML>
+    <XML>
+      <Path>D:\Games\SA\gta-vc.exe</Path>
+    </XML>
+  </fullpath>
+</Setting>
